@@ -99,6 +99,7 @@ nav {
   color: yellow;
   font-size: 20px;
   border-bottom: 2px solid yellow;
+  margin: 5px 0;
 }
 
 .nft-list li a p {
