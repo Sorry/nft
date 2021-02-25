@@ -77,8 +77,8 @@ nav {
   text-decoration: none;
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
   align-items: center;
-  justify-content: space-evenly;
   height: 250px;
   margin: 0px 10px 25px 10px;
 }
